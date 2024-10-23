@@ -128,3 +128,18 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
+=======
+
+# Node modules
+node_modules/
+
+# Archivos de configuración del entorno
+.env
+
+# Archivos de log
+*.log
+
+# Archivos de sistema
+.DS_Store
+>>>>>>> e73dbf7 (Initial commit)
